@@ -1,62 +1,214 @@
-<h1 align="center">Hi 👋, I'm Sourav Gorai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding animation">
+# Hi, I'm Sourav Gorai 👋
+
+### Information Technology Student • Frontend Developer • DSA Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Learning+Full+Stack+Development;Solving+DSA+Problems;Turning+Ideas+Into+Projects" alt="Typing animation">
+
+<br>
+
+<a href="https://github.com/Sourav99172">
+  <img src="https://img.shields.io/badge/GitHub-Sourav99172-181717?style=flat-square&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/sourav-gorai-16204a299">
+  <img src="https://img.shields.io/badge/LinkedIn-Sourav%20Gorai-0A66C2?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:souravgorai2583@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
 </div>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sourav99172" alt="sourav99172" />
-  </a> 
+---
+
+## About Me
+
+I'm an **Information Technology student** interested in building useful software and improving my problem-solving skills.
+
+My current focus is **frontend development, Data Structures & Algorithms, and full-stack development**. I enjoy learning by building projects rather than only following tutorials.
+
+* Currently learning **JavaScript, React.js, Node.js, Express.js and MongoDB**
+* Practicing **Data Structures & Algorithms**
+* Solving programming problems on **LeetCode**
+* Building small projects to strengthen my development skills
+* Interested in **Software Development and Full Stack Development**
+* Open to **internships, collaborations and development opportunities**
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" alt="Programming Languages">
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a> 
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Technologies">
 </p>
 
-- 🌱 I’m currently learning *Node.js, Express, and MongoDB to become a Full Stack Dev.*
+### Backend & Database
 
-- 💬 Ask me about *DSA, Web Development, and tech trends.*
-
-- 📫 How to reach me *souravgorai2583@gmail.com*
-
-- ⚡ Fun fact *I turn coffee into code.*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sourav-gorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav gorai" height="30" width="40" /></a>
-<a href="https://fb.com/sourav-gorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourav gorai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourav_gorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourav gorai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" alt="Development Tools">
 </p>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourav99172&show_icons=true&locale=en&layout=compact" alt="sourav99172" />
+---
+
+## Featured Projects
+
+### AI Resume Analyzer & Job Recommendation System
+
+A project focused on helping students understand how well their resume matches a job profile.
+
+**Planned features:**
+
+* Resume information extraction
+* Skill identification
+* Resume improvement suggestions
+* Skill-gap analysis
+* Job recommendation
+
+**Technology:** React.js • Node.js • Express.js • MongoDB • AI/NLP
+
+[View Project →](YOUR_PROJECT_LINK)
+
+---
+
+### College Placement Preparation Platform
+
+A platform designed to help students prepare for technical placements in one place.
+
+**Planned features:**
+
+* Aptitude practice
+* DSA problems
+* Mock tests
+* Interview preparation
+* Progress tracking
+* Company preparation resources
+
+**Technology:** React.js • Node.js • Express.js • MongoDB
+
+[View Project →](YOUR_PROJECT_LINK)
+
+---
+
+### Frontend Web Projects
+
+A collection of websites and small applications created while learning frontend development.
+
+**Technology:** HTML • CSS • JavaScript • React.js
+
+[View Projects →](YOUR_PROJECT_LINK)
+
+---
+
+## Problem Solving
+
+I regularly practice programming problems to improve my understanding of algorithms, data structures and problem-solving patterns.
+
+**Topics I'm working on:**
+
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Searching` `Sorting` `Recursion` `Trees`
+
+### Coding Profiles
+
+<p>
+<a href="https://github.com/Sourav99172">
+<img src="https://img.shields.io/badge/GitHub-Sourav99172-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 </p>
 
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav99172&show_icons=true&locale=en" alt="sourav99172" />
-</p>
+---
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav99172&" alt="sourav99172" />
-</p>
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sourav99172&show_icons=true&hide_border=true&theme=tokyonight" height="160">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav99172&layout=compact&hide_border=true&theme=tokyonight" height="160">
+
+</div>
+
+---
+
+## What I'm Learning Now
+
+I'm currently working on improving my development fundamentals step by step.
+
+```text
+Frontend
+HTML • CSS • JavaScript • React.js
+
+Backend
+Node.js • Express.js
+
+Database
+MongoDB • MySQL
+
+Programming
+C • C++ • Java
+
+Problem Solving
+Data Structures • Algorithms • LeetCode
+```
+
+---
+
+## What I'm Looking For
+
+I'm interested in opportunities where I can:
+
+* Work on real-world software projects
+* Learn from experienced developers
+* Improve my development and problem-solving skills
+* Contribute to a development team
+* Gain practical industry experience
+
+**Interested in Software Development, Frontend Development and Full Stack Development opportunities.**
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sourav-gorai-16204a299">
+<img src="https://img.shields.io/badge/LinkedIn-Sourav%20Gorai-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Sourav99172">
+<img src="https://img.shields.io/badge/GitHub-Sourav99172-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:souravgorai2583@gmail.com">
+<img src="https://img.shields.io/badge/Email-souravgorai2583@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Thanks for visiting my profile.**
+
+*Learning • Building • Improving*
+
+</div>
